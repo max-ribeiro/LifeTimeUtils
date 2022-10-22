@@ -1,4 +1,4 @@
-```
+``` js
 //Linked List
  class LinkedList{
   constructor(node){
