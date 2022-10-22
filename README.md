@@ -1,2 +1,2 @@
 # LifeTimeUtils ❤️
-Alguns salvadores de vida que precisei já precisei utilizar.
+Alguns salvadores de vida que já precisei utilizar.
